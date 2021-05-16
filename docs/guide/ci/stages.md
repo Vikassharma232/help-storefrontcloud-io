@@ -71,7 +71,7 @@ deploy-to-staging:
 
 ## Deploy Check
 
-In this stage we confir if deployment success.
+In this stage we confirm if deployment success.
 ```
 deploy-to-staging-check:
   stage: deploy-check
